@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/drawable/bottom_sheet_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/drawable/splashscreen.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/drawable/start_btn_back.xml" value="0.2203125" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/layout/activity_auth.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.2386609071274298" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/layout/bottom_sheet_pharmacy_layout.xml" value="0.33" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/layout/fragment_contribute_hospital.xml" value="0.17889492753623187" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/layout/fragment_map_main.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/layout/fragment_pharmacy.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/layout/fragment_sign_up.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/layout/fragment_signin.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/Muhtasim Kopot/AndroidStudioProjects/HospitalApp/app/src/main/res/menu/top_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

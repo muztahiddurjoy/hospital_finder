@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hospital Finder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="apikey">AIzaSyBCdOBfsnZNAsA-cRp5AMRumANl-2Uq3mw</string>
+    <string name="login_korun">লগইন করুন</string>
+    <string name="signup_korun">একাউন্ট খুলুন</string>
+</resources>
