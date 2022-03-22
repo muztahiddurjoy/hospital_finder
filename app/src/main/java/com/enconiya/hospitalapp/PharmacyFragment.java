@@ -91,7 +91,7 @@ public class PharmacyFragment extends Fragment {
                                             googleMap.addMarker(new MarkerOptions()
                                             .position(new LatLng(Double.parseDouble(dataset.getLat()),Double.parseDouble(dataset.getLon())))
                                             .icon(descriptor(getActivity(),R.drawable.ic_pharmacymarker))
-                                            .title(dataset.getName()));
+                                            .title(dataset.getName()).draggable(true));
                                         }
                                     }
 

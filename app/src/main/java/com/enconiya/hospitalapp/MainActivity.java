@@ -34,7 +34,13 @@ public class MainActivity extends AppCompatActivity {
                         getSupportFragmentManager().beginTransaction()
                                 .replace(R.id.mapfragment_container, new PharmacyFragment()).commit();
                         break;
+                    case  R.id.contribute:
+                        getSupportFragmentManager().beginTransaction()
+                                .replace(R.id.mapfragment_container, new ContributeHospital()).commit();
+                        break;
                     case R.id.about_app:
+                        getSupportFragmentManager().beginTransaction()
+                                .replace(R.id.mapfragment_container, new AboutFragment()).commit();
                         break;
                 }
                 return true;

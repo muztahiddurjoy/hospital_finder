@@ -12,11 +12,11 @@
         android:gravity="center_vertical"
         android:orientation="vertical">
         <com.airbnb.lottie.LottieAnimationView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="150sp"
+            android:layout_height="150sp"
             app:lottie_autoPlay="true"
             app:lottie_loop="true"
-            app:srcCompat="@raw/signup"
+            app:lottie_rawRes="@raw/signup"
             android:layout_gravity="center"/>
     <TextView
         android:layout_width="wrap_content"

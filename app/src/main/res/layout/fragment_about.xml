@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutFragment"
+    android:orientation="vertical">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+  <ImageView
+      android:layout_width="200dp"
+      android:layout_height="200sp"
+      android:layout_gravity="center"
+      android:layout_marginTop="50sp"
+      android:layout_marginBottom="10sp"
+      android:src="@drawable/developer"/>
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="মুজতাহিদ রহমান"
+      android:textColor="@color/purple_700"
+      android:textSize="20sp"
+      android:layout_gravity="center"/>
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="এ্যাপ ভেভেলপার"
+      android:layout_marginTop="5sp"
+      android:layout_gravity="center"/>
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+    android:text="সরকারি বাঙলা কলেজ"
+      android:layout_marginTop="10sp"
+      android:layout_gravity="center"/>
+  <ImageView
+      android:layout_width="200dp"
+      android:layout_height="200sp"
+      android:layout_gravity="center"
+      android:layout_marginTop="50sp"
+      android:layout_marginBottom="10sp"
+      android:src="@drawable/ui"/>
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="রাকিব চৌধুরী"
+      android:textColor="@color/purple_700"
+      android:textSize="20sp"
+      android:layout_gravity="center"/>
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="ইউ আই ডিজাইনার"
+      android:layout_marginTop="5sp"
+      android:layout_gravity="center"/>
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="সরকারি বাঙলা কলেজ"
+      android:layout_marginTop="10sp"
+      android:layout_gravity="center"/>
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/text_attr"
+      android:layout_margin="10sp"/>
+  <Button
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/logout"
+      android:layout_marginTop="20sp"
+      android:layout_gravity="center"
+      android:text="Logout"/>
+</LinearLayout>
+</ScrollView>

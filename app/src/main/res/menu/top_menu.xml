@@ -12,6 +12,10 @@
         app:showAsAction="always"
         android:id="@+id/pharmacy_find"/>
     <item
+        android:title="কন্ট্রিবিউট"
+        android:icon="@drawable/solidarity"
+        android:id="@+id/contribute"/>
+    <item
         android:title="এ্যাপের সম্পর্কে"
         android:id="@+id/about_app"
         android:icon="@drawable/info"

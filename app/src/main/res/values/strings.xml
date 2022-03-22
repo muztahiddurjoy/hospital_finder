@@ -5,4 +5,6 @@
     <string name="apikey">AIzaSyBCdOBfsnZNAsA-cRp5AMRumANl-2Uq3mw</string>
     <string name="login_korun">লগইন করুন</string>
     <string name="signup_korun">একাউন্ট খুলুন</string>
+    <string name="pharmacy_name">ফার্মেসির নাম</string>
+    <string name="pharmacy_mobile_number">ফার্মেসির মোবাইল নম্বর</string>
 </resources>
